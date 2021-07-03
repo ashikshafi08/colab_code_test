@@ -5,3 +5,6 @@ import model
 X , y = data.make_data()
 
 print(X.shape , y.shape)
+
+
+  
